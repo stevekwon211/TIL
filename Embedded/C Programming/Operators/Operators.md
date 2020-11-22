@@ -1,6 +1,6 @@
 # Operators in 'C'
 
-An operator is a symbol that tell the compiler to perform a certain mathematical or logical manipulation on the operands
+An operator is a symbol that tell the compiler to perform a certain mathematical or logical manipulation on the operands<br>
 
 |                   |       Operator        |                       Type                        |
 | :---------------: | :-------------------: | :-----------------------------------------------: |
@@ -12,7 +12,7 @@ An operator is a symbol that tell the compiler to perform a certain mathematical
 | Binary operators  | =, +=, -=, *=, /=, &= |               Assignment operators                |
 | Ternary operators |          ?:           |               Conditional operators               |
 
-  
+  <br>
 
 | Precedence |                           Operator                           |                         Description                          | Associativity |
 | :--------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :-----------: |
@@ -32,49 +32,73 @@ An operator is a symbol that tell the compiler to perform a certain mathematical
 |     14     |      =<br/>+= -=<br/>*= /= %=<br/><<= >>=<br/>&= ^= \|=      | Simple assignment<br/>Assignment by sum and difference<br/>Assignment by product, quotient, and remainder<br/>Assignment by bitwise left shift and right shift<br/>Assignment by bitwise AND, XOR, and OR | Right-to-left |
 |     15     |                              ,                               |                            Comma                             | Left-to-right |
 
-  
+  <br>
 
-  # Unary Operator in 'C'
+# Unary Operator in 'C'
 
 ++ is an unary operator and it can appear on either side of an expression
 
-`uint32_t x,y; `
-`x=5; `
-`y=++x;` __=> Pre-incrementing__  
+```c
+uint32_t x,y;  
+x=5;  
+y=++x;
+```
+
+__=> Pre-incrementing__  
 y = 6 , x = 6  
 First, value of x will be incremented by 1  
-Then value of x will be assigned to y  
+Then value of x will be assigned to y   
 
-`uint32_t x,m; `
-`x=5; `
-`m=x++;` __=> Post-incrementing__  
+```c
+ uint32_t x,m;  
+x=5;  
+m=x++;   
+```
+
+__=> Post-incrementing__  
 m = 5 , x = 6  
 First, value of x will be assigned to m  
 Then value of x will be incremented by 1  
 
-`uint32_t x,y; `
-`x=5; `
-`y=--x;` __=> Pre-decrementing__  
+```c
+uint32_t x,y;
+x=5;
+y=--x;
+```
+
+ __=> Pre-decrementing__  
 y = 4 , x = 4  
 
-`uint32_t n,m; `
-`n=5; `
-`m=n--;` __=> Post-decrementing__  
+```c
+uint32_t n,m;
+n=5;
+m=n--;
+```
+
+__=> Post-decrementing__  
 m = 5 , n = 4
 
-
+<br>
 
 # Unary operators with pointer variables
 
-`uint32_t *pAddress = (uint32_t*) 0xFFFF0000;`  
+```c
+uint32_t *pAddress = (uint32_t*) 0xFFFF0000;  
 
-`pAddress = pAddress +1;` __=> this is arithmetic add operation__  
-Result: pAddress = 0xFFFF0004  
+pAddress = pAddress +1;
+```
 
-`pAddress++;` __=>This is unary increment operation__  
+ __=> this is arithmetic add operation__  
+Result: pAddress = 0xFFFF0004   
+
+```c
+pAddress++;
+```
+
+__=>This is unary increment operation__  
 pAddress = 0xFFFF0004  
 
-
+<br>
 
 # Relational Operators in 'C'
 
@@ -84,8 +108,9 @@ pAddress = 0xFFFF0004
 
 | ==<br>><br/><<br/>>=<br/><=<br/>!= | Equal to<br/>Greater than<br/>Less than<br/>Greater than or equal to<br/>Less than or equal to<br/>Not equal to | a==b returns 1 if a and b are the same<br/>a>b returns 1 if a is larger than b<br/>a<b returns 1 if a is smaller than b<br/>a>=b returns 1 if a is larger than or equal to b<br/>a<=b return 1 if a is smaller than or equal to b<br/>a!=b returns 1 if a and b not the same |
 | ---------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                    |                                                              |                                                              |
 
-  
+<br>  
 
 ## True and False in 'C'
 
@@ -93,17 +118,19 @@ pAddress = 0xFFFF0004
 - Expressions using relational operators evaluate to a value of either TRUE (1) or FALSE (0).
 - Relational expressions are often used within __if__ and __while__ statements.
 
-
+<br>
 
 ## Examples
 
-`A=10, B=20`
+```c
+A=10, B=20
 
-`C = (A!=B);`
+C = (A!=B);
+```
 
 __=> C=1__
 
-  
+<br>  
 
 # Logical Operators in 'C'
 
@@ -113,19 +140,23 @@ __=> C=1__
 
 | &&<br>\|\|<br/>! | And<br/>Or<br/>Not(unary) | a&&b returns 1 if a is nonzero and b is nonzero<br/>a\|\|b returns 1 if a is nonzero or b is nonzero<br/>!a returns 1 if a is zero |
 | ---------------- | ------------------------- | ------------------------------------------------------------ |
+|                  |                           |                                                              |
 
-  
+<br>  
 
 ## logical AND Operator : &&
 
 - The __logical-AND__ operator produces the value 1 if both operands have nonzero values.
 - if either operand is equal to 0, the result is 0. If the first operand of a logical-AND operation is equal to-, the second operand is not evaluated.
 
-`A= -10, B=20;`
-`C= (A && B);`
-`C=1 //true`  
+```c
+A= -10, B=20;
+C= (A && B);
+```
 
 
+__=> C=1__
+<br>
 
 ## logical OR Operator: ||
 
@@ -134,12 +165,11 @@ __=> C=1__
 - If either operand has a nonzero value, the result is 1
 - If the first operand of a logical-OR operation has a nonzero value, the second operand is not evaluated
 
-
+<br>
 
 ## logical NOT Operator: !
 
 - It reverses the state of the operand
 - If a condition or expression is true, then Logical NOT operator will make it false
 
-
-
+<br>
