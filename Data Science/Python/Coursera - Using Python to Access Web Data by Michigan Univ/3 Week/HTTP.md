@@ -19,8 +19,9 @@
   - 3. Retrieve the Document
   - 4. Close the Connection
 <br>
+
 # HTTP
-The __H__yper__T__ext __T__ransfer __P__rotocol is the set of rules to allow browsers to retrieve web documents from servers over the Internet
+The __HyperText Transfer Protocol__ is the set of rules to allow browsers to retrieve web documents from servers over the Internet
 
 <br>
 
