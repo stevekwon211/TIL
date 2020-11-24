@@ -1,2 +1,14 @@
 # Study List
-#### [1 Using Python to Access Web Data]([https://github.com/stevekwon211/TIL/tree/main/Data%20Science/Python/Coursera%20-%20Using%20Python%20to%20Access%20Web%20Data%20by%20Michigan%20Univ](https://github.com/stevekwon211/TIL/tree/main/Data Science/Python/Coursera - Using Python to Access Web Data by Michigan Univ))
+### Python
+
+#### [1. Using Python to Access Web Data](https://github.com/stevekwon211/TIL/tree/main/Data Science/Python/Coursera - Using Python to Access Web Data by Michigan Univ)
+
+<br>
+
+### Math
+
+<br>
+
+### Machine Learning
+
+<br>
