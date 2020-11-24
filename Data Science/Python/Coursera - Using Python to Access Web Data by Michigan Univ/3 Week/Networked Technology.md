@@ -5,7 +5,9 @@
 - Handles "flow control" using a transmit window
 - Provides a nice reliable pipe
 
-![](/home/stevekwon/Documents/stevekwon211.github.io/assets/img/posts/IP_stack_connections.png)
+![](/home/stevekwon/Documents/TIL/Data Science/Python/Coursera - Using Python to Access Web Data by Michigan Univ/src/IP_stack_connections.png)
+
+
 
 Source: https://en.wikipedia.org/wiki/Internet_protocol_suite
 
