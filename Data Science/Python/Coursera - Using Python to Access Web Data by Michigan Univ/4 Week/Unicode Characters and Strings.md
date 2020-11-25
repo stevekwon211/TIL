@@ -79,7 +79,7 @@ __=> In Python 3, all strings are Unicode__
 >>> type(x)
 <type 'unicode'>
 ```
-__=> In Python 2, byte string and regular string are the same, __  
+__=> In Python 2, byte string and regular string are the same,__  
 __and the Unicode string are different__
 ```python
 # Python 3.5.1
@@ -93,7 +93,7 @@ __and the Unicode string are different__
 >>> type(x)
 <class 'str'>
 ```
-__=> In Python 3, Unicode string and regular string are the same, __  
+__=> In Python 3, Unicode string and regular string are the same,__  
 __and the byte string are different__  
 
 <br>
