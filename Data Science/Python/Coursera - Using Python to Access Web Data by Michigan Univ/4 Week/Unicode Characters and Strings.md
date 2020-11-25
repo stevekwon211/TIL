@@ -2,7 +2,7 @@
 
 American Standard Code for Information Interchange
 
-![](TIL/Data Science/Python/Coursera - Using Python to Access Web Data by Michigan Univ/src/asciifull.png)
+![](https://github.com/stevekwon211/TIL/blob/main/Data%20Science/Python/Coursera%20-%20Using%20Python%20to%20Access%20Web%20Data%20by%20Michigan%20Univ/src/asciifull.png)
 
 <br>
 
