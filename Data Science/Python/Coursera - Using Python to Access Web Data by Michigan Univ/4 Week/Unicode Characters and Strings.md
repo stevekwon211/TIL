@@ -2,7 +2,7 @@
 
 American Standard Code for Information Interchange
 
-![](/home/stevekwon/Documents/TIL/Data Science/Python/Coursera - Using Python to Access Web Data by Michigan Univ/src/asciifull.png)
+![](https://github.com/stevekwon211/TIL/blob/main/Data%20Science/Python/Coursera%20-%20Using%20Python%20to%20Access%20Web%20Data%20by%20Michigan%20Univ/src/asciifull.png)
 
 <br>
 
@@ -79,7 +79,7 @@ __=> In Python 3, all strings are Unicode__
 >>> type(x)
 <type 'unicode'>
 ```
-__=> In Python 2, byte string and regular string are the same, __  
+__=> In Python 2, byte string and regular string are the same,__  
 __and the Unicode string are different__
 ```python
 # Python 3.5.1
@@ -93,7 +93,7 @@ __and the Unicode string are different__
 >>> type(x)
 <class 'str'>
 ```
-__=> In Python 3, Unicode string and regular string are the same, __  
+__=> In Python 3, Unicode string and regular string are the same,__  
 __and the byte string are different__  
 
 <br>

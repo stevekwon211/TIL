@@ -5,7 +5,7 @@
 - Handles "flow control" using a transmit window
 - Provides a nice reliable pipe
 
-![](/home/stevekwon/Documents/TIL/Data Science/Python/Coursera - Using Python to Access Web Data by Michigan Univ/src/IP_stack_connections.png)
+![](https://github.com/stevekwon211/TIL/blob/main/Data%20Science/Python/Coursera%20-%20Using%20Python%20to%20Access%20Web%20Data%20by%20Michigan%20Univ/src/IP_stack_connections.png)
 
 
 
