@@ -1,11 +1,3 @@
----
-title: Importance of stdint.h
-author: Hyukil (Steve) Kwon
-date: 2020-11-22 22:30:00 +0900
-categories: [C, Basic]
-tags: [stdint.h, c]
-comments: true
----
 # Data type size and compiler
 
 Data types may cause portability issues of code when compiler changes.  

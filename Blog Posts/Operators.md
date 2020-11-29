@@ -1,11 +1,3 @@
----
-title: Operators
-author: Hyukil (Steve) Kwon
-date: 2020-11-22 22:31:00 +0900
-categories: [C]
-tags: [c, Basic]
-comments: true
----
 # Operators in 'C'
 
 An operator is a symbol that tell the compiler to perform a certain mathematical or logical manipulation on the operands<br>

@@ -1,11 +1,3 @@
----
-title: HTTP
-author: Hyukil (Steve) Kwon
-date: 2020-11-24 22:00:00 +0900
-categories: [Python, Web Data]
-tags: [network, python]
-comments: true
----
 # Application Protocol
 
 - Since TCP (and Python) gives us a reliable __socket__, what do we want to do with the __socket__? What problem do we want to solve?

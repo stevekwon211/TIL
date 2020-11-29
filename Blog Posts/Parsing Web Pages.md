@@ -1,11 +1,3 @@
----
-title: Parsing Web Pages
-author: Hyukil (Steve) Kwon
-date: 2020-11-25 22:00:00 +0900
-categories: [Python, Web Data]
-tags: [web, crawling, python]
-comments: true
----
 # What is Web Scraping?
 
 - When a program or script pretends to be a browser and retrieves web pages, looks at hose web pages, extracts information, and then looks at more web pages

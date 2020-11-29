@@ -1,16 +1,8 @@
----
-title: Unicode Characters and Strings
-author: Hyukil (Steve) Kwon
-date: 2020-11-25 22:01:00 +0900
-categories: [Python, Web Data]
-tags: [unicode, ascii, urllib, python]
-comments: true
----
 # ASCII
 
 American Standard Code for Information Interchange
 
-![](https://stevekwon211.github.io/assets/img/posts/asciifull.jpg)
+![](https://cs.smu.ca/~porter/csc/ref/asciifull.gif)
 
 <br>
 

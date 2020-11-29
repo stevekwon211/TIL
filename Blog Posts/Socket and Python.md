@@ -1,11 +1,3 @@
----
-title: Socket and Python
-author: Hyukil (Steve) Kwon
-date: 2020-11-24 22:01:00 +0900
-categories: [Python, Web Data]
-tags: [socket, python]
-comments: true
----
 # Transport Control Protocol (TCP)
 
 - Built on top of IP (Internet Protocol)
