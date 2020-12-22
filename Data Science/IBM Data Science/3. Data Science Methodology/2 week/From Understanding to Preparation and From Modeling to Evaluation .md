@@ -52,8 +52,6 @@
 - In What way can the data be visualized to get to the answer that is required?
 - Modeling is a step in data science methodology where data scientists can sample sources to determine if there are enough samples or more samples are needed
 
-### Using Predictive or Descriptive?
-
 - What is the purpose of data modeling?
   - Data modeling focuses on __developing technical__ or __predictable models__
 - What are the characteristics of this process?
