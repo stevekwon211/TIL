@@ -24,7 +24,7 @@
 * * *
 ## Self-Improvement
 ### Blog
-[공부하는 개발자 스티브](https://stevekwon211.github.io/#/)
+[dɪˈveləpə(r) Steve](https://stevekwon211.blogspot.com/)
 - 내 블로그에도 같은 내용의 __`TIL`__ 을 작성해서 올리기로 했다.  
 블로그에는 TIL 뿐만 아니라 __`나의 다양한 생각`__ 들도 담으려고 한다.   
 
