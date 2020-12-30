@@ -7,21 +7,24 @@
 
 ### Data Science
 - 수학
-- Python
-  - [Coursera Using Python to Access Web Data by Michigan Univ.](https://github.com/stevekwon211/TIL/tree/main/Data%20Science/Python/Coursera%20-%20Using%20Python%20to%20Access%20Web%20Data%20by%20Michigan%20Univ)
+  - 수학독본 1, 2, 3, 4, 5, 6
+  - 김도형의 데이터 사이언스 스쿨 수학편
+- Pytho
 - 머신러닝
 - 딥러닝  
 
 ### Algorithm
 - Baekjoon
   - [백준 단게별로 풀어보기](https://github.com/stevekwon211/TIL/tree/main/Algorithm/BAEKJOON)
-
+- 프로그래머스
+- Do it 자료구조와 함께 배우는 알고리즘 입문 파이썬 편
 ### Embedded
 - STM32
+- Raspberry Pi
 * * *
 ## Self-Improvement
 ### Blog
-[공부하는 개발자 스티브](https://stevekwon211.github.io/#/)
+[dɪˈveləpə(r) Steve](https://stevekwon211.blogspot.com/)
 - 내 블로그에도 같은 내용의 __`TIL`__ 을 작성해서 올리기로 했다.  
 블로그에는 TIL 뿐만 아니라 __`나의 다양한 생각`__ 들도 담으려고 한다.   
 
