@@ -91,7 +91,6 @@ $$
   h_\theta(x^{(i)}) = \theta_1x^{(i)}
   $$
   
-
 - Goal = _Minimize Parameters_
   $$
   J(\theta_1)
