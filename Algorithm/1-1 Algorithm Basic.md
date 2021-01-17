@@ -1,6 +1,6 @@
-## Algorithm Basic
+## 알고리즘 기초
 
-- __Algorithm__ : Procedures established to solve the problem
+- __알고리즘__ : 문제 해결을 위한 절차 수립
 - __Sequential Structure__ : Structure that is processed in order by sentence
 - __Conditional Expression__ : Expression which is between __if__ and __: (colon)__
 - __Select Structure__ : Structure in which the execution flow changes according to the results of a conditional evaluation 
